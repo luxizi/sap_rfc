@@ -18,7 +18,7 @@ flowchart LR
 
 #### 根目录
 
-![image-20230614111703605](images\image-20230614111703605.png)
+![image-20230614111703605](images/image-20230614111703605.png)
 
 - main是存储业务代码的路径
 
